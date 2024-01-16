@@ -1,7 +1,7 @@
-const tokenAddress = "0xd00981105e61274c8a5cd5a88fe7e037d935b513";
-const tokenSymbol = "TUT";
+const tokenAddress = "0x00e1656e45f18ec6747F5a8496Fd39B50b38396D";
+const tokenSymbol = "BCOIN";
 const tokenDecimals = 18;
-const tokenImage = "http://placekitten.com/200/300";
+const tokenImage = "https://bscscan.com/token/images/bombcrypto_32.png";
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 declare let window: any;
 
